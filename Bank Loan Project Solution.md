@@ -1,4 +1,4 @@
-# Bank Loan Project Solution
+# Solution
 
 <p align="right"> Using Microsoft SQL Server </p>
 
